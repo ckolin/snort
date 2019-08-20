@@ -11,3 +11,8 @@ simple pixel sorter
 - `rotations` (optional): number of 90-degree rotations to perform before sorting
 
 `lower bound` and `upper bound` accept values from 0 - 255
+
+# example
+`snort mountain.jpg example.png 0 120 1`
+
+![example](example.png)
