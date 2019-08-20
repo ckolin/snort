@@ -1,6 +1,8 @@
 # snort
 simple pixel sorter
 
+*make sure you are building in release mode if you want to process large images, it will be much faster*
+
 # usage
 `snort <input> <output> <lower bound> <upper bound> [rotations]`
 
